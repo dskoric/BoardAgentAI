@@ -1,0 +1,6 @@
+@BoardAgentService_HostAddress = http://localhost:5143
+
+GET {{BoardAgentService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
